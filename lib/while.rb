@@ -4,7 +4,7 @@ def using_while
 counter = 6
 	while counter > 6
 	puts "The current number is more than 20."
-	counter += 1
+	counter += 10
 	end
 end
 
