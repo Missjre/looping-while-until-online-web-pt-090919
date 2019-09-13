@@ -1,6 +1,6 @@
 def using_while
-  levitation_force = 
-	puts "The current number is more than 20."
+  levitation_force = 6
+	puts ""
 	counter += 10
 	end
 
