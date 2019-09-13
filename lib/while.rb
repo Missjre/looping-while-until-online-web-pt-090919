@@ -1,6 +1,6 @@
 def using_while
   counter = 6
-	puts using_while ("Wingardium Leviosa" until the levitation force is equal to 10, incrementing the levitation force by 1 each time we puts the phrase.)
+	puts using_while ("Wingardium Leviosa" until the levitation force is equal to 10, incrementing the levitation force by 1)
 	counter += 1
 	end
 
